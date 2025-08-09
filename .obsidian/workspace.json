@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "6b17bb35893ffb0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4522042b0cf6eba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee8c8d32b926a3e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/NPCs/Gadwick.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gadwick"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd1b2141f5b150c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0727e49f2470fb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e6a600393459893",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "2aed524c2908ff01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "83ae487353016549",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "e13ee9640d7b8ac2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign/Geography/Le Terre Emerse.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Le Terre Emerse"
+            }
+          },
+          {
+            "id": "171e7640c7b986e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          },
+          {
+            "id": "0dcf34f21bc775ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaign/Geography/Le Terre Emerse.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Le Terre Emerse"
+            }
+          },
+          {
+            "id": "ad5d92bfc6b10d18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaign/Geography/Le Terre Emerse.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Le Terre Emerse"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "1446a7785c9edd06",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6aff914b3ed3a29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46ee255acef244cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Buttons.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Buttons"
+            }
+          },
+          {
+            "id": "6bd2e9a1631c0396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Tab of Lazy Prep.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tab of Lazy Prep"
+            }
+          },
+          {
+            "id": "017fdb66f43232f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Notepad.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notepad"
+            }
+          },
+          {
+            "id": "24de51197a552bdd",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-tts:Text to Speech": false
+    }
+  },
+  "active": "ee8c8d32b926a3e3",
+  "lastOpenFiles": [
+    "Campaign/Parties/Party Dashboards/I figli di Stacia.md",
+    "Campaign/Deities/Elous.md",
+    "Campaign/Organizations/Predoni di Elous.md",
+    "Campaign/Parties/Characters/Party 1/Calliope.md",
+    "Tools/Buttons.md",
+    "MAPPE/le_terre_emerseCITTA'.png",
+    "Campaign/Settlements/BELFORTE.md",
+    "Campaign/Settlements/SOLERINO.md",
+    "Campaign/Settlements/STIERA.md",
+    "Campaign/Deities/Stiera.md",
+    "Campaign/Settlements/CASTELLETTO.md",
+    "Campaign/Settlements/ROCCASPARVERA.md",
+    "Campaign/Parties/Characters/Party 1/Mijira moradillion.md",
+    "Vault Hub.md",
+    "Campaign/Parties/Characters/Party 1/Manfred.md",
+    "Campaign/Parties/Characters/Party 1/Nico Beil.md",
+    "Tools/Notepad.md",
+    "Campaign/Geography/Le Terre Emerse.md",
+    "MAPPE/le_terre_emerseGEO.png",
+    "Campaign/Points of Interest/Base a Lierna.md",
+    "Campaign/Organizations/Hierarchies/Famiglia Sal.md",
+    "Campaign/Organizations/Famiglia Sal.md",
+    "Campaign/NPCs/Farren Sal.md",
+    "Campaign/Deities/Stacia.md",
+    "Campaign/Settlements/DALICO.md",
+    "z_Unorganized/1. DM Screen.md",
+    "Campaign/Settlements/PRIMALUNA.md",
+    "Campaign/NPCs/Gadwick.md",
+    "IMMAGINI/PERSONE & ORGANIZZAZIONI/LAPINIDE.png.0.pdnSave",
+    "IMMAGINI/PERSONE & ORGANIZZAZIONI/LAPINIDE.png",
+    "IMMAGINI/PERSONE & ORGANIZZAZIONI/ARBORIDE.png.0.pdnSave",
+    "IMMAGINI/PERSONE & ORGANIZZAZIONI/ARBORIDE.png",
+    "IMMAGINI/PERSONE & ORGANIZZAZIONI/DIMENTICATO.png.0.pdnSave",
+    "IMMAGINI/PERSONE & ORGANIZZAZIONI/DIMENTICATO.png",
+    "IMMAGINI/PERSONE & ORGANIZZAZIONI/ELFO_DESERTO.png.0.pdnSave",
+    "Campaign/RAZZE",
+    "IMMAGINI/PERSONE & ORGANIZZAZIONI/ELFO_DESERTO.png",
+    "MAPPE/le_terre_emerseGEO.png.0.pdnSave",
+    "IMMAGINI/PERSONE & ORGANIZZAZIONI/NICO_BEIL.png",
+    "IMMAGINI/PERSONE & ORGANIZZAZIONI/pixai-1901499933303137594-1.png",
+    "IMMAGINI/PERSONE & ORGANIZZAZIONI/CALLIOPE.jpg",
+    "IMMAGINI/PERSONE & ORGANIZZAZIONI/CALLIOPE.png",
+    "IMMAGINI/LUOGHI/ALCE-CANT.png.0.pdnSave",
+    "IMMAGINI/LUOGHI/ALCE-P1.png.0.pdnSave",
+    "IMMAGINI/LUOGHI/ALCE-PT.png.0.pdnSave",
+    "IMMAGINI/LUOGHI/ALCE-PT.png~RF2c082c64.TMP",
+    "Untitled.canvas",
+    "3. Campaign/4. Planes/Untitled.canvas",
+    "z_Canvas/Untitled.canvas"
+  ]
+}

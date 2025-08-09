@@ -1,0 +1,365 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Valdian - Gilded Guarters",
+      "lastAccessed": 1707413417438,
+      "markers": [
+        {
+          "id": "ID_0939ca6bd8fb",
+          "type": "Tavern",
+          "loc": [
+            -86.17803195221272,
+            158.30680853670202
+          ],
+          "link": "Bear and Bottle",
+          "layer": "%5B%5BValdian%20-%20Gilded%20Quarters.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.559635204725416,
+            0.37205842181203547
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb79e87b194a",
+          "type": "Shop",
+          "loc": [
+            -154.78788007485758,
+            165.87120815479358
+          ],
+          "link": "Dancing Hourglass",
+          "layer": "%5B%5BValdian%20-%20Gilded%20Quarters.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5863763434548602,
+            0.6682693149481169
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Campaign/Districts/Gilded Quarters.md"
+      ]
+    },
+    {
+      "id": "Valdian",
+      "lastAccessed": 1707413417438,
+      "markers": [
+        {
+          "id": "ID_c8f868b80a88",
+          "type": "District",
+          "loc": [
+            -183.06439592380735,
+            123.97727205536576
+          ],
+          "layer": "%5B%5BValdianMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5188690433915386,
+            0.6675091920649311
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b78a83bb85a",
+          "type": "District",
+          "loc": [
+            -157.90908822724288,
+            116.76136015761949
+          ],
+          "link": "Gilded Quarters",
+          "layer": "%5B%5BValdianMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4886690459120879,
+            0.5757851895250424
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polygon",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -204.42472691088125,
+              "lng": 126.3089488920163,
+              "id": "ID_b8787b1b0afa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -189.6747254104335,
+              "lng": 138.93395009603023,
+              "id": "ID_f9d8d90b0aba",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -177.92472421516158,
+              "lng": 132.4339494761419,
+              "id": "ID_f97aabb90918",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -170.42472345222203,
+              "lng": 133.43394957150932,
+              "id": "ID_2bfbdb894a68",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -161.6747225621259,
+              "lng": 123.18394859399305,
+              "id": "ID_792a1bb86818",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -164.1747228164391,
+              "lng": 113.18394764031865,
+              "id": "ID_0a3a7ba9abc8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -189.42472538500218,
+              "lng": 115.9339479025791,
+              "id": "ID_bba9484ac86b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "polygon",
+          "color": "#af1db9",
+          "vertices": [
+            {
+              "lat": -161.2922594939941,
+              "lng": 109.28517392613162,
+              "id": "ID_b9f85a7a6a68",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -152.04225855303534,
+              "lng": 111.53517414070836,
+              "id": "ID_6aab98ea2aa8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -150.04225834958478,
+              "lng": 122.34767517186881,
+              "id": "ID_bb6bcadaf86b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -155.04225885821114,
+              "lng": 124.3476753626037,
+              "id": "ID_fb09bbd859e8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -161.54225951942541,
+              "lng": 122.66017520167114,
+              "id": "ID_6a0a28aa1a9a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -164.60475983095904,
+              "lng": 112.9101742718386,
+              "id": "ID_2b6a38bb5b18",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        }
+      ],
+      "files": [
+        "Campaign/Settlements/Valdian.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "POI",
+      "iconName": "binoculars",
+      "color": "#000000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "District",
+      "iconName": "asterisk",
+      "color": "#000000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Tavern",
+      "iconName": "beer",
+      "color": "#000000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Shop",
+      "iconName": "tag",
+      "color": "#000000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "600px",
+    "image": "[[PlaceholderImage.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[PlaceholderImage.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 6.5,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "TBD",
+    "lock": true,
+    "recenter": true,
+    "noScrollZoom": false,
+    "width": "640px",
+    "lat": 0,
+    "long": 0,
+    "unit": "miles",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

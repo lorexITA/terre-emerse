@@ -1,0 +1,71 @@
+{
+  "frames": [
+    {
+      "url": "https://app.demiplane.com/home",
+      "displayName": "Demiplane",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.fantasynamegenerators.com/dungeons-and-dragons.php",
+      "displayName": "D&D Name Generator",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 0.75,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.fantasynamegenerators.com/pathfinder.php",
+      "displayName": "Pf2e Name Generator",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 0.75,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.fantasynamegenerators.com",
+      "displayName": "Fantasy Name Generator",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 0.75,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://chat.openai.com",
+      "displayName": "ChatGPT",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://watabou.github.io",
+      "displayName": "Map Generators",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 0.5,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

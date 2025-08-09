@@ -1,0 +1,12 @@
+**Race**
+
+```
+INPUT[inlineSelect(option(null), option(Aarakocra), option(Aasimar), option(Astral Elf), option(Bugbear), option(Centaur), option(Changeling), option(Dhampir), option(Dragonborn), option(Duergar), option(Dwarf), option(Eladrin), option(Elf), option(Fairy), option(Firbolg), option(Genasi), option(Giff), option(Gith), option(Gnome), option(Goblin), option(Goliath), option(Hadozee), option(Half-Elf), option(Half-Orc), option(Halfling), option(Harengon), option(Hexblood), option(Hobgoblin), option(Human), option(Kender), option(Kenku), option(Kobold), option(Leonin), option(Lizardfolk), option(Loxodon), option(Minotaur), option(Orc), option(Owlin), option(Plasmoid), option(Reborn), option(Satyr), option(Shadar-Kai), option(Shifter), option(Simic Hybrid), option(Tabaxi), option(Thri-kreen), option(Tiefling), option(Tortle), option(Triton), option(Vedalken), option(Verdan), option(Yuan-Ti))]
+```
+
+
+**Subrace**
+
+```
+INPUT[inlineSelect(option(null), option(Fallen Aasimar), option(Protector Aasimar), option(Scourge Aasimar), option(Black Dragonborn), option(Blue Dragonborn), option(Brass Dragonborn), option(Bronze Dragonborn), option(Copper Dragonborn), option(Gold Dragonborn), option(Green Dragonborn), option(Red Dragonborn), option(Silver Dragonborn), option(White Dragonborn), option(Amethyst Dragonborn), option(Crystal Dragonborn), option(Emerald Dragonborn), option(Sapphire Dragonborn), option(Topaz Dragonborn), option(Hill Dwarf), option(Duergar Dwarf), option(Mountain Dwarf), option(Drow Elf), option(Eladrin Elf), option(High Elf), option(Sea Elf), option(Shadar-kai Elf), option(Wood Elf), option(Air Genasi), option(Earth Genasi), option(Fire Genasi), option(Water Genasi), option(Githyanki), option(Githzerai), option(Deep Gnome), option(Forest Gnome), option(Rock Gnome), option(Drow Half-Elf), option(High Half-Elf), option(Wood Half-Elf), option(Ghostwise Halfling), option(Lightfoot Halfling), option(Stout Halfling), option(Werebear Shifter), option(Wereboar Shifter), option(Wererat Shifter), option(Weretiger Shifter), option(Werewolf Shifter), option(Asmodeus Tiefling), option(Baalzebul Tiefling), option(Dispater Tiefling), option(Fierna Tiefling), option(Glasya Tiefling), option(Levistus Tiefling), option(Mammon Tiefling), option(Mephistopheles Tiefling), option(Devils Tongue Tiefling), option(Hellfire Tiefling), option(Infernal Legacy Tiefling), option(Winged Tiefling), option(Zariel Tiefling), option(Pureblood Yuan-Ti))]
+```
